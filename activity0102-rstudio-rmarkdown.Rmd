@@ -4,8 +4,9 @@ author: "Emily Dorn"
 date: "8/29/2019"
 output: 
   html_document: 
-    fig_height: 7
-    fig_width: 10
+    fig_height: 6
+    fig_width: 8
+    highlight: zenburn
 ---
 
 ### Load packages
