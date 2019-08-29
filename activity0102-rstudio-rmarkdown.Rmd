@@ -31,6 +31,8 @@ ggplot(data = dino_data, mapping = aes(x = x, y = y)) +
   geom_point()
 ```
 
+The shape of the plot is a dinosaur.
+
 And next calculate the correlation between `x` and `y` in this dataset:
 
 ```{r cor-dino}
